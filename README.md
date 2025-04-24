@@ -49,14 +49,14 @@ This project is beginner-friendly and demonstrates the use of:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/emma-obelenge/OOP-Challenge_Group-433.git
+   git clone https://github.com/vkamole/OOP-Challenge.git
 
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd OOP-Challenge_Group-433
+   cd OOP-Challenge
 
    ```
 
@@ -99,37 +99,20 @@ Click [here](https://youtube.com/shorts/vAQlKm_Grg4?si=q_EIvip79IOPGA2R) to watc
 
 This project was developed as part of the **PLP Academy Group Assignment**. Below are the contributors:
 
-### Group 433 Members
+### Group 556 Members
 
-#### Emmanuel Obelenge
+#### Victor Mutua
 
 - **Role**: Lead Developer
-- **Email**: [obeleemmanuel@gmail.com](mailto:obeleemmanuel@gmail.com)
-- **GitHub**: [@emma-obelenge](https://github.com/emma-obelenge)
+- **Email**: [victorkamole@gmail.com](mailto:victorkamole@gmail.com)
+- **GitHub**: [@vkamole](https://vkamole)
 
-#### Tabitha Tsisika Lisanza
+#### Mary Fiona Omondi
 
-- **Role**: Code Testing
-- **Email**: [lisanzatabitha@gmail.com](mailto:lisanzatabitha@gmail.com)
-- **GitHub**: [@lisanzatabby](https://github.com/lisanzaTabby)
+- **Role**: Code testing, Review correct code workability.
+- **Email**: [omondifiona77@gmail.com](mailto:omondifiona77@gmail.com)
+- **GitHub**: [@fiona12-code](https://github.com/fiona12-code)
 
-#### Berlyn Mumbua Mutinda
-
-- **Role**: Implementing init methods with rules
-- **Email**: [berlynmumbua@gmail.com](mailto:berlynmumbua@gmail.com)
-- **GitHub**: [@mumbua-mutinda](https://github.com/mumbua-mutinda)
-
-#### RODGERS MARAGIA
-
-- **Role**: Code testing, Review correct code workability and Error Correction/debugging.
-- **Email**: [r28081999m@gmail.com](mailto:r28081999m@gmail.com)
-- **GitHub**: [@Rockjunior](https://github.com/Rockjunior)
-
-#### Evan Omanga
-
-- **Role**: ReadMe.md file documentation
-- **Email**: [evanwayodi19@gmail.com](mailto:evanwayodi19@gmail.com)
-- **GitHub**: [Evan19-CoDe](https://github.com/Evan19-CoDe)
 
 ## Future Improvements
 
